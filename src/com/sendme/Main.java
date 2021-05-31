@@ -18,7 +18,7 @@ import javax.swing.JTextField;
 
 public class Main extends Thread
 {
-//Authors selvaraji and snega.
+//Authors selvaraji and snega...
 	static String filename,path,ip,iptemp,ipa;
 	static boolean conected=false;
 	static long length,sending;
